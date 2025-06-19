@@ -1,1 +1,6 @@
-
+opencv-python
+numpy
+pandas
+matplotlib       # optional
+torch            # optional if using ML
+torchvision      # optional
