@@ -14,7 +14,9 @@ Build a basic Python tool that can:
 5. (Bonus) Visualize bounding boxes or trajectories
 
 ## Dataset
-Two test sperm videos are included in the `/videos` folder.
+👉 You can download real sperm motility videos from the public [VISEM dataset](https://zenodo.org/record/7293726).
+- Suggested file: `annotated_videos.zip`
+- Use 1 or 2 `.mp4` files from that zip and place them inside `/videos`
 
 ## Tools You Can Use
 - Python
