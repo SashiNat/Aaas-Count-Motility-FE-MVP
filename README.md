@@ -31,4 +31,11 @@ Build a basic Python tool that can:
 ## Time Allotment
 ~3–4 hours max. We’re evaluating working knowledge, not a polished product.
 
+## Submission
+- Fork this repo and push your changes
+- Or email a zip containing:
+  - Your `output/` folder
+  - Your code
+  - A short note or Loom link explaining your approach
+
 Good luck! 🚀
