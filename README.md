@@ -12,6 +12,21 @@ Build a basic Python tool that can:
    - Non-moving
 4. Output a CSV with per-frame statistics
 5. (Bonus) Visualize bounding boxes or trajectories
+6. ---
+
+### 🟡 Bonus (Optional, Not Required)
+
+If you're familiar with basic Python front-end frameworks like **Streamlit** or **Flask**, you may optionally build a UI to:
+
+- Upload `.mp4` video file
+- Trigger the analysis
+- Display the report table in the browser
+- Show download buttons for CSV or annotated video
+
+This is **not required** for evaluation, but is a plus if completed.
+
+---
+
 
 ## Dataset
 👉 You can download real sperm motility videos from the public [VISEM dataset](https://zenodo.org/record/7293726).
