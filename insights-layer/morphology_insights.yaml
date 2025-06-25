@@ -1,0 +1,7 @@
+thresholds:
+  - min: 0
+    max: 4
+    insight: "Normal forms <4% — below WHO reference. May suggest teratozoospermia; clinical correlation advised."
+  - min: 4
+    max: 100
+    insight: "Normal morphology meets WHO threshold. Fertility depends on combined motility and count."
