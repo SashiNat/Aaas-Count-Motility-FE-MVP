@@ -1,0 +1,7 @@
+thresholds:
+  - progressive_min: 0
+    progressive_max: 32
+    insight: "Progressive motility below WHO reference (32%). May impair natural fertilization potential."
+  - progressive_min: 32
+    progressive_max: 100
+    insight: "Progressive motility within WHO range. Further evaluation of morphology recommended."
