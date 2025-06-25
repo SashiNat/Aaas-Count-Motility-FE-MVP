@@ -1,1 +1,10 @@
-
+thresholds:
+  - min: 0
+    max: 15
+    insight: "Below WHO reference (15 million/mL). May reduce chances of natural conception. Clinical correlation advised."
+  - min: 15
+    max: 200
+    insight: "Within normal WHO range. Fertility depends on motility and morphology as well."
+  - min: 200
+    max: 999
+    insight: "Above typical reference range. May be associated with hyperviscosity or other conditions."
