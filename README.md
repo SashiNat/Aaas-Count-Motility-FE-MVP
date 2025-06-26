@@ -4,6 +4,8 @@ This repository contains the core modules of the Andrology-as-a-Service (AaaS) M
 - Sperm Count Estimation (image-based)
 - Motility Tracking and Classification (video-based)
 - Lightweight frontend for data upload and result viewing
+- 🧠 Clinical Insight Layer for WHO-aligned interpretation of results
+
 
 ### 🚧 Active Issues
 - [Issue #4 – Phase 1: Count, Motility, and Frontend MVP](https://github.com/SashiNat/Aaas-Count-Motility-FE-MVP/issues/4)
