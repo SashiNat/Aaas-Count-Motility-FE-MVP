@@ -1,0 +1,12 @@
+thresholds:
+  - min: 0
+    max: 15
+    insight: "DFI is in the low fragmentation zone (<15%). This indicates good sperm DNA integrity and a favorable fertility profile."
+
+  - min: 15
+    max: 30
+    insight: "Moderate DNA fragmentation (15–30%). May affect IVF/IUI success rates. Consider lifestyle or antioxidant intervention if clinically appropriate."
+
+  - min: 30
+    max: 100
+    insight: "High DNA fragmentation (>30%). May reduce embryo quality and increase miscarriage risk. Clinical intervention may be advised."
