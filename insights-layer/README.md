@@ -6,6 +6,7 @@ This module generates clinical insights based on WHO 5th Edition sperm parameter
 - `count_insights.yaml`: Maps sperm concentration (millions/mL) to insights
 - `motility_insights.yaml`: Maps progressive motility % to interpretations
 - `morphology_insights.yaml`: Maps % normal forms to comments
+- `dfi_insights.yaml`: Maps DNA Fragmentation Index % to clinical interpretation
 
 ## Purpose
 These insights are embedded in the test reports for clinician use only. They are not a substitute for medical advice.
