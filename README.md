@@ -25,3 +25,13 @@ This repository contains the core modules of the Andrology-as-a-Service (AaaS) M
 git clone https://github.com/SashiNat/Aaas-Count-Motility-FE-MVP.git
 cd Aaas-Count-Motility-FE-MVP
 pip install -r requirements.txt
+---
+
+### 🗺️ Cloud MVP Architecture
+
+The following architecture supports:
+- Cloud hosting of the app
+- Secure login & time-bound trial access
+- Uploads, storage, and report generation
+
+![Cloud MVP Architecture](docs/architecture/cloud_mvp_architecture.png)
