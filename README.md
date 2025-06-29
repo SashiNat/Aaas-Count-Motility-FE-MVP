@@ -18,6 +18,10 @@ This repository contains the core modules of the Andrology-as-a-Service (AaaS) M
 - PyTorch / TensorFlow (for ML models)
 - Streamlit / Flask (frontend)
 
+### 🚀 Developer Onboarding
+
+📄 [Step-by-Step Developer Guide](onboarding_steps.md)
+
 ---
 
 ### 🚀 Getting Started
