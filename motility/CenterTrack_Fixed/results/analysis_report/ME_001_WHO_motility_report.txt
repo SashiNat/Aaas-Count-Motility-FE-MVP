@@ -1,0 +1,28 @@
+Analysis of: mot17_half_sc_ME_001_results.json
+Sample ID: ME_001
+Generated: 2025-08-03 12:08:38
+============================================================
+
+
+WHO 2021 Sperm Motility Analysis Report
+==================================================
+Total Sperm Analyzed: 499
+
+Individual Categories:
+  1. Rapid Progressive (RP): 212 (42.5%)
+  2. Slow Progressive (SP): 225 (45.1%)
+  3. Non-Progressive (NP): 39 (7.8%)
+  4. Immotile (IM): 23 (4.6%)
+
+WHO Standard Categories:
+  1. Total Motile (RP+SP+NP): 476 (95.4%)
+  2. Total Progressive (RP+SP): 437 (87.6%)
+  3. Rapid Progressive (RP): 212 (42.5%)
+  4. Slow Progressive (SP): 225 (45.1%)
+  5. Non-Progressive (NP): 39 (7.8%)
+  6. Immotile (IM): 23 (4.6%)
+
+WHO Reference Values (Normal):
+  - Total Motile: ≥40%
+  - Progressive Motile: ≥32%
+  - Rapid Progressive: No specific threshold

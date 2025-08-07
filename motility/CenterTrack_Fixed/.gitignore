@@ -1,0 +1,35 @@
+# Large model files (>50MB)
+*.pth
+models/*.pth
+exp/**/*.pth
+exp/tracking/*/model_*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Temporary files
+temp_*
+*.tmp
+
+# Large media files  
+videos/
+*.mp4
+*.avi
+*.wmv
+*.mov
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
